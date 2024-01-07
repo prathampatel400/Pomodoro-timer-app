@@ -1,0 +1,18 @@
+.Main-Login{
+    margin-top:150px;
+    margin-left: 350px;
+    width: 350px;
+    background-color: rgb(180, 161, 198);
+    border-radius: 15px;
+    text-align: center;
+    line-height: 30px;
+    box-shadow: solid black 10px;
+
+}
+.Main-Login button:hover{
+   background-color: rgb(156, 198, 205);
+   color: black;
+   cursor: pointer;
+   line-height: 20px;
+   opacity: 1;   
+}

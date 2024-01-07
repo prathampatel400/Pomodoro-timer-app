@@ -1,0 +1,23 @@
+.container{
+    margin:150px;
+    margin-left: 350px;
+    width: 350px;
+    background-color: rgb(180, 161, 198);
+    border-radius: 20px;
+    text-align: center;
+   line-height: 30px;
+    
+}
+.container button:hover{
+         font-size: 18px;
+         font-weight: bold;
+         background-color: rgb(101, 108, 174);
+         color: white;
+         padding: 10px 12px;
+         margin: 8px 0;
+         border: none;
+         cursor: pointer;
+         width: 30%;
+         opacity:0.4;
+         height: 50px;
+}

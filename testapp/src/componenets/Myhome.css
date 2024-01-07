@@ -1,0 +1,24 @@
+.demo1{
+    background-image: url(https://media.istockphoto.com/id/1337281626/photo/7-o-clock-am-pm-backlit-purple-clock-time.jpg?s=612x612&w=0&k=20&c=IMHzY5rcnWIzG_Q4h8jeZoXz0-Mv63FqOGUn77in_O0=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    width:100%;
+    height:100vh;
+}
+.demo{
+    background-color:rgb(191, 188, 242);
+    border: solid rgb(12, 12, 12);
+    box-sizing: content-box;
+    border-radius: 15px;
+    margin: auto;
+    height:200px;
+    width: 40%;
+    text-align: center;
+
+}
+.demo button{
+    color: black;
+}
